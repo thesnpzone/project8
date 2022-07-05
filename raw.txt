@@ -1,0 +1,8 @@
+font-family: 'DM Sans', sans-serif;  para
+font-family: 'Fredoka One', cursive; heading 
+
+450
+505
+
+
+BS COLOR : #FC086E
